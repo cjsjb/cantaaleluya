@@ -1,5 +1,5 @@
 \context Staff = "Mezzo" \with { \consists Ambitus_engraver } <<
-	\set Staff.instrumentName = "Mezzo"
+	\set Staff.instrumentName = "Mezzosoprano"
 	\set Staff.shortInstrumentName = "M."
 	\set Score.skipBars = ##t
 	\set Staff.printKeyCancellation = ##f
@@ -10,7 +10,7 @@
 		\override Voice.TextScript #'padding = #2.0
 		\override MultiMeasureRest #'expand-limit = 1
 
-		\clef "treble_8"
+		\clef "treble"
 		\key b \minor
 
 		R1*4  |
