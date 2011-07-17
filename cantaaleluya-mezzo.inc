@@ -14,12 +14,23 @@
 		\key b \minor
 
 		R1*4  |
-		%% 5
+%% 5
 		fis' 2 e' 4 d'  |
 		cis' 4 b a cis'  |
 		b 1 ~  |
 		b 2. r4  |
-		R1*10  |
+		fis' 2 e' 4 d'  |
+%% 10
+		cis' 2 d' 4 e'  |
+		fis' 1  |
+		e' 1  |
+		d' 1  |
+		d' 1  |
+%% 15
+		fis' 2 e' 4 d'  |
+		cis' 4 b a cis'  |
+		d' 1  |
+		R1  |
 		\bar "|."
 	} % Voice
 >> % Staff ends
