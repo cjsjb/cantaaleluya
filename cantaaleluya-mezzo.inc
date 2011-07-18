@@ -21,7 +21,7 @@
 		b 2. r4  |
 		fis' 2 e' 4 d'  |
 %% 10
-		cis' 2 d' 4 e'  |
+		cis' 2 d' 4 ( e' )  |
 		fis' 1  |
 		e' 1  |
 		d' 1  |
@@ -33,4 +33,9 @@
 		R1  |
 		\bar "|."
 	} % Voice
+	\lyricsto "voice 3" \new Lyrics \lyricmode {
+		"Can" -- "ta a" -- "le" -- "lu" -- "ya" "al" "Se" -- "ñor." __
+		"Can" -- "ta a" -- "le" -- "lu" -- "ya," __ "a" -- "le" -- "lu" -- "ya."
+		"Can" -- "ta a" -- "le" -- "lu" -- "ya" "al" "Se" -- "ñor."
+	} % Lyrics 1
 >> % Staff ends
