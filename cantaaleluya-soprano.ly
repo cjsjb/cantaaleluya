@@ -20,7 +20,7 @@ global = {
 	\skip 1*18  %% 1-18
 }
 globalTempo = {
-	\tempo 4 = 135  \skip 1*18
+	\tempo 4 = 133  \skip 1*18
 }
 \score {
 	\new StaffGroup << % common
