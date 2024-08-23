@@ -5,6 +5,8 @@
 \header {
 	title = "Canta aleluya"
 	tagline = "Coro Juvenil San Juan Bosco"
+	composer = "Luis Alfredo Díaz"
+	copyright = "Copyright © 1976 Luis Alfredo Díaz"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
