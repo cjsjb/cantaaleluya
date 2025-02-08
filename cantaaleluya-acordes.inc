@@ -11,6 +11,8 @@
 		% canta aleluya al sennor...
 		b1:m a1:6 fis1:7 fis1:7
 
+		\bar "||"
+
 		% canta aleluya, canta aleluya
 		b1:m a1:6 g1 d1
 
