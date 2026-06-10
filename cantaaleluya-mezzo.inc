@@ -12,7 +12,6 @@
 
 		\clef "treble"
 		\key b \minor
-
 		R1*4  |
 %% 5
 		fis' 2 e' 4 d'  |
@@ -32,10 +31,10 @@
 		d' 1  |
 		R1  |
 		\bar "|."
-	} % Voice
+	}
 	\new Lyrics \lyricsto "voz-mezzo" {
 		"Can" -- "ta a" -- "le" -- "lu" -- "ya" "al" "Se" -- "ñor."
 		"Can" -- "ta a" -- "le" -- "lu" -- "ya," __ "a" -- "le" -- "lu" -- "ya."
 		"Can" -- "ta a" -- "le" -- "lu" -- "ya" "al" "Se" -- "ñor."
-	} % Lyrics 1
->> % Staff ends
+	}
+>>
